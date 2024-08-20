@@ -16,7 +16,7 @@ User details of weight and calorie intake and be edited, with the BMI being reca
 
 This project is from a collaborative group school project with 3 others. 
 
-I handled all PHP code including form submissions, displaying the tables for the user, and everything in the SQL script but the stored procedures and populating the database. I did not handle the Bootstrap portion, some of the Javascript functionality, and some of the web-styling.
+I handled all PHP code including form submissions, displaying the tables for the user, and creating the tables for the SQL database. Javascript code that interacted with PHP was also coded by me. I did not code the web-styling portions, which include Bootstrap, Html, and some Javascript.
 <br> <br> <br> <br> <br> <br> 
 
 ![image](https://github.com/kadin52/FitnessDatabaseProject/assets/76132229/a4e71e36-a96c-42f1-a528-39f7dbb36b21)
